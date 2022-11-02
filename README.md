@@ -4,13 +4,13 @@
 ### Downloadable Pre-requisites
 
 - Jupyter environment with *Python >= 3.7 and the following python libraries are required:
-1. *Numpy >= 1.21.6
-2. *Pandas >= 1.3.5
-3. *Scikit Learn >= 1.0.2
-4. *Matplotlib >= 3.5.1
-5. *Seaborn >= 0.12.0
-6. *Tqdm>=4.41.1
-7. *Torch>=2.4.1
+1. *numpy >= 1.21.6
+2. *pandas >= 1.3.5
+3. *scikit-learn >= 1.0.2
+4. *matplotlib >= 3.5.1
+5. *seaborn >= 0.12.0
+6. *tqdm>=4.41.1
+7. *torch>=2.4.1
 8. lightgbm >= 3.3.2
 9. optuna >= 3.0.3
 10. shap >= 0.40.0
